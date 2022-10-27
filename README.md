@@ -859,6 +859,7 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                     API                                      | Description                                                                                       |   Auth   | HTTPS |  CORS   |
 | :--------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | :------: | :---: | :-----: |
+|                 [Ayrshare](https://www.ayrshare.com)                  | Social media APIs for posting and analytics                                                      | `apiKey`  |  Yes  | Yes |
 |                 [Buffer](https://buffer.com/developers/api)                  | Access to pending and sent updates in Buffer                                                      | `OAuth`  |  Yes  | Unknown |
 |               [Cisco Spark](https://developer.ciscospark.com)                | Team Collaboration Software                                                                       | `OAuth`  |  Yes  | Unknown |
  | [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php) | Database of malicious Discord accounts | `apiKey` | Yes | Unknown |
